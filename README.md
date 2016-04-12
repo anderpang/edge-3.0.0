@@ -15,3 +15,9 @@ Java+Nodejs+window系统（未测其他系统）
 3、源码中创建文件夹、保存文件，压缩路径中自动生成。
 
 4、配置简单。
+
+### src/js/otherpath/merge.json
+[
+  ["../jquery-1.8.0.js","a.js","bbb.js"],
+  ["a.js","bbb.js"]
+]
